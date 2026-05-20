@@ -1,10 +1,15 @@
 [
+    "ts2", //1
+    "flamewall", //2
+    "amethyst", //3
+    "tidalwave", //4
     "allegiance",
     "tud",
     "cata",
     "niwa",
     "sweaterweather",
     "acu",
+    "nosedive",
     "throughthedecay",
     "precipitance",
     "redworld"

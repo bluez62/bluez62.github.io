@@ -4,6 +4,13 @@
         "name": "Bluez62",
         "link": "https://www.youtube.com/@Bluez62"
     },
+    {
+        "role": "dev",
+        "name": "Bluez62",
+        "link": "https://www.youtube.com/@Bluez62"
+    }
+]
+
     //{
         //"role": "admin",
         //"name": "List Admin",
@@ -19,9 +26,3 @@
         //"name": "Trial List Helper",
         //"link": "https://www.youtube.com/@Prometheus_Alt"
     //},
-    {
-        "role": "dev",
-        "name": "Bluez62",
-        "link": "https://www.youtube.com/@Bluez62"
-    }
-]
