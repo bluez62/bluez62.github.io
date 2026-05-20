@@ -100,28 +100,37 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Your completion video and raw footage must have all clicks fully audible throughout the entire completion.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        You must record and upload a video of your completion to YouTube or another video sharing platform.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Completion videos may not be deleted after they are accepted.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        If your video was uploaded after July 2nd, 2023, your record must have all cheat indicators visible on the level's end screen.
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        Your record must show the stats on the endscreen (attempts, orbs, etc.).
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        If your record is in the top 400, you must have raw footage, with isolated clicks, uploaded in a downloadable format (e.g. Google Drive) and submitted along with your public video.
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Your record may not use any disallowed mods.
+                    </p>
+                    <p>
+                        If you are using a custom copy of a level, it must either be approved by list staff, or not significantly affect the level's gameplay or difficulty without a doubt.
+                    </p>
+                    <p>
+                        Globed 2P Completions are allowed, however, you need to include both POVs in the video or provide a link to watch the other POV, and the completion must be on an approved Globed 2P copy.
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                    </p>
+                    <p>
+                        The rest of the rules are the same as AREDL's guidelinese, they can be found here: https://aredl.net/guidelines
                     </p>
                 </div>
             </div>
