@@ -1,0 +1,18 @@
+{
+    "id": 85383554,
+    "name": "Stereo Extremeness",
+    "author": "vortrox",
+    "creators": ["vortrox", "BroBroBrayBray", "AudieoVisual", "Voxicat", "RobTop", "Gepsoni4", "tricipital", "xVainaja", "TicLos"],
+    "verifier": "vortrox",
+    "verification": "https://www.youtube.com/watch?v=b7479IyV6z8",
+    "percentToQualify": "83",
+    "password": "46290",
+    "records": [
+        {
+            "user": "Bluez62",
+            "link": "https://www.youtube.com/watch?v=b7479IyV6z8",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
