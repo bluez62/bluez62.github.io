@@ -147,7 +147,9 @@ export default {
     }),
     computed: {
         level() {
-            return this.list[this.selected][0];
+            console.log("Current Selected Key:", this.selected);
+            console.log("What lives at that key:", this.list ? this.list[this.selected] : "List is missing entirely");
+            return this.list[this.selected].?[0];
         },
         video() {
             if (!this.level.showcase) {
