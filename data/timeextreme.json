@@ -1,0 +1,18 @@
+{
+    "id": 116730903,
+    "name": "Time Extreme",
+    "author": "vortrox",
+    "creators": ["DiamondSkull", "vortrox", "FunkyFries", "RobTop", "galofuf"],
+    "verifier": "vortrox",
+    "verification": "https://www.youtube.com/watch?v=gzqeoJK_UvM",
+    "percentToQualify": "72",
+    "password": "46290",
+    "records": [
+        {
+            "user": "Bluez62",
+            "link": "https://www.youtube.com/watch?v=gzqeoJK_UvM",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
