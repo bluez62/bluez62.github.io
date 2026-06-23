@@ -1,0 +1,48 @@
+{
+    "id": 4125776,
+    "name": "Silent Clubstep",
+    "author": "TheRealSailent",
+    "creators": ["TheRealSailent"],
+    "verifier": "zoe",
+    "verification": "https://www.youtube.com/watch?v=GR4OMkS3SN8",
+    "percentToQualify": "63",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=57aQ3EmSqQ4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Doggie",
+            "link": "https://www.youtube.com/watch?v=h9XRy_oAMks",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Trick",
+            "link": "https://www.youtube.com/watch?v=uO2ISQnXm4Q",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Seturan",
+            "link": "https://www.youtube.com/watch?v=z7OUaFod8Fo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "zVision",
+            "link": "https://www.youtube.com/watch?v=EOr8hDyXDvQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=trf9--AiLH8",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
