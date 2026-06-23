@@ -1,0 +1,18 @@
+{
+    "id": 10565740,
+    "name": "Every End",
+    "author": "Mindcap",
+    "creators": ["MindCap", "Djoxy", "Pennutoh", "squeentix", "Blitzer", "npesta", "Koreaqwer", "StarkytheSalad", "Surv", "cobrablitz", "lolwut", "KrmaL"],
+    "verifier": "Hqmy",
+    "verification": "https://www.youtube.com/watch?v=AO--mVVFtKI",
+    "percentToQualify": "68",
+    "password": "46290",
+    "records": [
+        {
+            "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=ZyRmgwSh5tQ",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
