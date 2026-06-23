@@ -1,0 +1,18 @@
+{
+    "id": 61079355,
+    "name": "Ashley Wave Trials",
+    "author": "oddmod",
+    "creators": ["oddmod"],
+    "verifier": "Zoink",
+    "verification": "https://www.youtube.com/watch?v=aTxt76U3e2Q",
+    "percentToQualify": "77",
+    "password": "46290",
+    "records": [
+        {
+            "user": "Cookie",
+            "link": "https://www.youtube.com/watch?v=C3LsiXWwWEw",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
