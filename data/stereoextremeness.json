@@ -8,6 +8,12 @@
     "percentToQualify": "83",
     "password": "46290",
     "records": [
+                {
+            "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=j7JljdQj918",
+            "percent": 100,
+            "hz": 240
+        },
         {
             "user": "Bluez62",
             "link": "https://www.youtube.com/watch?v=b7479IyV6z8",
