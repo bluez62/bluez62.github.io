@@ -9,6 +9,12 @@
     "password": "46290",
     "records": [
         {
+            "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=gzqeoJK_UvM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "Bluez62",
             "link": "https://www.youtube.com/watch?v=gzqeoJK_UvM",
             "percent": 100,
